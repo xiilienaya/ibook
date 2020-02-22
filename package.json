@@ -1,0 +1,23 @@
+{
+  "name": "ibook",
+  "version": "1.0.0",
+  "description": "这一个 Git Book 自动化构建的Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiilienaya/ibook.git"
+  },
+  "keywords": [],
+  "author": "xiilienaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiilienaya/ibook/issues"
+  },
+  "homepage": "https://github.com/xiilienaya/ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
